@@ -32,3 +32,14 @@ A simple and responsive Weather Forecast application that displays real-time wea
 ---
 
 ## 📂 Project Structure
+Weather-App/
+│── index.html
+│── style.css
+│── script.js (embedded in HTML)
+│── images/
+├── clouds.png
+├── clear.png
+├── rain.png
+├── drizzle.png
+├── mist.png
+└── search.png
