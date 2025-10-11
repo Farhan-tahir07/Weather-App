@@ -3,7 +3,7 @@
 A simple and responsive Weather Forecast application that displays real-time weather information for any city using the OpenWeatherMap API.
 
 ## 🔗 Live Demo
-Live Demo: [Weather App Live Link](https://farhaan-tahir.github.io/Weather-App/)
+Live Demo: [https://farhaan-tahir.github.io/Weather-App/](https://farhaan-tahir.github.io/Weather-App/)
 
 ---
 
